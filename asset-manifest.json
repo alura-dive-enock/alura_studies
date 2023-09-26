@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/alura_studies_timer/static/css/main.00e126ce.chunk.css",
+    "main.js": "/alura_studies_timer/static/js/main.51d5a0bf.chunk.js",
+    "main.js.map": "/alura_studies_timer/static/js/main.51d5a0bf.chunk.js.map",
+    "runtime-main.js": "/alura_studies_timer/static/js/runtime-main.ff94f30f.js",
+    "runtime-main.js.map": "/alura_studies_timer/static/js/runtime-main.ff94f30f.js.map",
+    "static/js/2.bb6411b6.chunk.js": "/alura_studies_timer/static/js/2.bb6411b6.chunk.js",
+    "static/js/2.bb6411b6.chunk.js.map": "/alura_studies_timer/static/js/2.bb6411b6.chunk.js.map",
+    "index.html": "/alura_studies_timer/index.html",
+    "static/css/main.00e126ce.chunk.css.map": "/alura_studies_timer/static/css/main.00e126ce.chunk.css.map",
+    "static/js/2.bb6411b6.chunk.js.LICENSE.txt": "/alura_studies_timer/static/js/2.bb6411b6.chunk.js.LICENSE.txt",
+    "static/media/Item.module.scss": "/alura_studies_timer/static/media/check-mark.53f24c0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff94f30f.js",
+    "static/js/2.bb6411b6.chunk.js",
+    "static/css/main.00e126ce.chunk.css",
+    "static/js/main.51d5a0bf.chunk.js"
+  ]
+}
