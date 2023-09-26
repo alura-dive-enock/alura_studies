@@ -5,3 +5,5 @@
 ## React: writing with Typescript
 
 [About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/React/React_writing_with_Typescript)
+
+[Project](https://alura-dive-enock.github.io/alura_studies_timer/)
